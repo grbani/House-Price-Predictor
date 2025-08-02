@@ -67,5 +67,5 @@ An interactive web application was built using **Streamlit** to allow for easy, 
 
 ## ✍️
 
-* **MD>GOLAM RABBANI**
+* **MD.GOLAM RABBANI**
 * **2203059**
